@@ -1,4 +1,4 @@
-name: 🚀 Deploy to dev
+name:  Deploy to dev
 
 env:
   VERCEL_ORG_ID: ${{ secrets.VERCEL_TEAM_ID }}
